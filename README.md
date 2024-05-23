@@ -24,7 +24,7 @@ I'm a passionate Flutter developer with 2 years of experience in crafting beauti
 ## 📫 How to reach me
 - **Email:** [email](mailto:fluttercodewizard@gmail.com)
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/nadeeem786qureshi)
-- **Twitter:** [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- **Twitter:** [@ Not in X ](https://twitter.com/yourtwitterhandle)
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
